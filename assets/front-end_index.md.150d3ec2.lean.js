@@ -1,1 +1,0 @@
-import{_ as l,c as e,o as r,a as i}from"./app.3b728a6a.js";const g=JSON.parse('{"title":"前端体系","description":"","frontmatter":{},"headers":[],"relativePath":"front-end/index.md"}'),t={name:"front-end/index.md"},a=i("",2),o=[a];function n(p,E,b,B,h,s){return r(),e("div",null,o)}const m=l(t,[["render",n]]);export{g as __pageData,m as default};
